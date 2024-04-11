@@ -13,7 +13,7 @@
 	<version>0.0.6-SNAPSHOT</version>
 	<name>Lotte-Market</name>
 	<description>Demo project for Spring Boot</description>
-	<pakaging>war</pakaging>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
